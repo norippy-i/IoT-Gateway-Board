@@ -1,3 +1,5 @@
+[日本語READMEはこちら](./README.ja.md)
+
 # Installation guide
 At first , Please install PlatformIO in VSCode.
 
