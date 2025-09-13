@@ -10,19 +10,17 @@ At first , Please install PlatformIO in VSCode.
 
 # Behavior of the program
 
-Tactile switch: When pressed, a message will be shown via Serial communication.
+***Tactile switch*** : When pressed, a message will be shown via Serial communication.
 
-SD card: If an SD card is inserted, a text file named hello will be written to it.
+***SD card*** : If an SD card is inserted, a text file named hello will be written to it.
 
-Full-color LED: Always stays on.
+***Full-color LED ***: Always stays on. The color changes over time.
 
 Slide switch:
-  
-  If switched to one side → Serial shows mode 1
-  
-  If switched to the other side → Serial shows mode 2
-  
-  If left in between → Serial shows unknown
+
+  1. If switched to one side → Serial shows mode 1
+  2. If switched to the other side → Serial shows mode 2
+  3. If left in between → Serial shows unknown
 
 # About the Sample Code
 
