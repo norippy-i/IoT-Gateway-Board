@@ -1,5 +1,7 @@
 [日本語READMEはこちら](./README.ja.md)
 
+IoT Gateway Board is designed for makers who want a versatile IoT hub with SD card storage and LED indicators.
+
 # Installation guide
 At first , Please install PlatformIO in VSCode.
 
