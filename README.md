@@ -20,11 +20,25 @@ In the sample code, it operates as follows. Please refer to the comments in the 
 
 Slide switch:
 
-  1. If switched to one side → Serial shows mode 1
-  2. If switched to the other side → Serial shows mode 2
-  3. If left in between → Serial shows unknown
+	•	If switched to one side → Serial shows mode 1
+	•	If switched to the other side → Serial shows mode 2
+	•	If left in between → Serial shows unknown
 
-# About the Sample Code
+# About the Enclosure
+
+This enclosure is specifically designed for the IoT Gateway Board.
+
+Thanks to the snap-fit structure,  can be assembled without using screws.
+
+It has also been confirmed that this enclosure can be manufactured with a 3D printer, so please try producing it with the 3D printer you have at home.
+
+Note: We have confirmed that this enclosure can be manufactured without issues under the following conditions:
+
+	•	3D Printer: Bmamulab X1 Carbon
+	•	Nozzle: 0.4 mm
+	•	Material: PLA
+
+# About the Sample Code License
 
 The sample code in this repository uses the following libraries:
 
