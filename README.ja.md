@@ -1,5 +1,7 @@
 [README in English](./README.md)
 
+IoT Gateway Board は、SDカードストレージとLEDステータス表示を備えた多機能 IoT ハブを作りたい方向けのプロジェクトです。
+
 # インストールガイド
 最初に、VSCode に PlatformIO をインストールしてください。
 
