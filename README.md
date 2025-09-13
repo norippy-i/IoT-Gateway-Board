@@ -25,14 +25,7 @@ Slide switch:
 # About the Sample Code
 
 The sample code in this repository uses the following libraries:
-	•	FastLED (License: MIT)
-	•	SPI (Arduino standard library, License: LGPL-2.1)
-	•	SD (Arduino standard library, License: LGPL-2.1)
 
-# サンプルコードについて
-
-本リポジトリのサンプルコードでは以下のライブラリを使用しています：
-
-- [FastLED](https://github.com/FastLED/FastLED) (ライセンス: MIT)
-- SPI (Arduino標準ライブラリ, ライセンス: LGPL-2.1)
-- SD (Arduino標準ライブラリ, ライセンス: LGPL-2.1)
+- [FastLED](https://github.com/FastLED/FastLED) (License: MIT)
+- SPI (Arduino standard library, License: LGPL-2.1)
+- SD (Arduino standard library, License: LGPL-2.1)
