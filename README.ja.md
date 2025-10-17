@@ -48,3 +48,14 @@ IoT Gateway Board専用の筐体をデザインしました。
 - [FastLED](https://github.com/FastLED/FastLED)（ライセンス: MIT）
 -	SPI（Arduino 標準ライブラリ、ライセンス: LGPL-2.1）
 -	SD（Arduino 標準ライブラリ、ライセンス: LGPL-2.1）
+
+# Switch2を確実に買うためのIoT　Gateway Boardを活用したサンプル
+このIoT Gateway boardをフル活用したシステムを構築しました
+
+[ゲリラ入荷お知らせシステム -絶対にSwitch2買う!-](https://protopedia.net/prototype/7610)
+
+こちらのIoT Gateway部分のサンプルコードと、ESP-NOWでデータを受け取るデバイスのサンプルコードを用意しました。
+
+ESP-NOWでデータを受け取るデバイスは[M5ATOM Lite](https://www.switch-science.com/products/6262?srsltid=AfmBOop3nCKR_6CEb2lsimvxAGZrY1MQYfr4301_rZzS-clmA1ZFM4YU)を使っております。
+自作のLEDボードなどを繋いでいるので、このままの状態で動かすのはハードルが高いので、あくまでサンプルとしてご活用ください。
+
